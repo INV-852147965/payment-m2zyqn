@@ -1,8 +1,10 @@
 2026-09-15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: ramilian@comcast.net, maddogchin@sbcglobal.net
-At: 2026-09-15 21:39:11
-Id: iU5tPugx
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: staceyaturner@aol.com, burogers@yahoo.com
+At: 2026-09-15 21:39:50
+Id: hYQoAP8T
